@@ -1,7 +1,7 @@
 # Studys
 
 **Studys** is a simple student management system that helps organize and manage student records more efficiently.  
-It replaces manual record-keeping with a digital solution that allows faster search, easier updates, and reduced errors.  
+It replaces manual record-keeping with a digital solution that allows faster search, easier updates, and reduced.  
 
 ## Features
 - **Add Student**: Store new student records (NIM, Name, Email, Address)  
